@@ -70,9 +70,9 @@
 
 ```
 supply-chain-optimization-demo/
--├── app.py                 ← Main Streamlit app (ready to deploy)
--├── requirements.txt       ← All dependencies
--└── README.md              ← This file
+├── app.py                 ← Main Streamlit app (ready to deploy)
+├── requirements.txt       ← All dependencies
+└── README.md              ← This file
 
 
 ```
