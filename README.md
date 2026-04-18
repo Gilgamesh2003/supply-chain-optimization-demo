@@ -73,6 +73,8 @@ supply-chain-optimization-demo/
 -├── app.py                 ← Main Streamlit app (ready to deploy)
 -├── requirements.txt       ← All dependencies
 -└── README.md              ← This file
+
+
 ```
 
 
@@ -86,9 +88,6 @@ The Streamlit version makes it accessible to everyone without running any code.
 ---
 
 ### 👨‍💻 Author
-
-**Prabodh**  
-*Operations Research | Supply Chain Analytics | Mumbai, India*  
 
 Made with ❤️ for Operations Research students, professors, and supply chain enthusiasts.
 
