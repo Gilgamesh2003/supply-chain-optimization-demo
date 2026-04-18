@@ -10,7 +10,7 @@
 ---
 
 ### 🌟 Live Demo
-**Try it instantly → [https://your-username-supply-chain-optimization-demo.streamlit.app](https://your-username-supply-chain-optimization-demo.streamlit.app)**  
+**Try it instantly → [https://supply-chain-optimization-demo.streamlit.app](https://supply-chain-optimization-demo.streamlit.app)**  
 
 ---
 
