@@ -11,7 +11,6 @@
 
 ### 🌟 Live Demo
 **Try it instantly → [https://your-username-supply-chain-optimization-demo.streamlit.app](https://your-username-supply-chain-optimization-demo.streamlit.app)**  
-*(Replace with your actual Streamlit Cloud URL after deployment)*
 
 ---
 
@@ -26,16 +25,6 @@
 - **Export-ready Tables** — All optimal flows shown in clean dataframes
 - **Fully Responsive** — Works perfectly on mobile & desktop
 - **Zero Setup for Users** — Just open the link and click “Run Optimization”
-
----
-
-### 📸 Screenshots
-
-*(Add your actual screenshots here after deploying)*
-
-![App Screenshot 1](https://via.placeholder.com/800x450/0f172a/22d3ee?text=Interactive+Dashboard+with+Sliders)
-![App Screenshot 2](https://via.placeholder.com/800x450/0f172a/22d3ee?text=Cost+Breakdown+%26+Metrics)
-![App Screenshot 3](https://via.placeholder.com/800x450/0f172a/22d3ee?text=Network+Visualization+Graph)
 
 ---
 
@@ -79,9 +68,9 @@
 
 ### 📁 Project Files
 supply-chain-optimization-demo/
-├── app.py                 ← Main Streamlit app (ready to deploy)
-├── requirements.txt       ← All dependencies
-└── README.md              ← This file
+-├── app.py                 ← Main Streamlit app (ready to deploy)
+-├── requirements.txt       ← All dependencies
+-└── README.md              ← This file
 
 
 ---
